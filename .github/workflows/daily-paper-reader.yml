@@ -286,3 +286,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python scripts/request_pages_build.py --timeout 600
+# [fork-setup] registered on fork: 2026-09-23

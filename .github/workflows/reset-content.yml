@@ -64,3 +64,4 @@ jobs:
 
           git commit -m "[fix] reset docs from docs_init and clear archive"
           git push
+# [fork-setup] registered on fork: 2026-09-23

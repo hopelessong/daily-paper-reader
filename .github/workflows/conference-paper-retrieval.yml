@@ -329,3 +329,4 @@ jobs:
             git diff --cached --quiet && { echo "[OK] no changes after re-merge, skipping"; exit 0; }
             git commit -m "$COMMIT_MSG"
           done
+# [fork-setup] registered on fork: 2026-09-23
